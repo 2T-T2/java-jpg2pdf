@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jpg2pdf">
+    <output-path>$PROJECT_DIR$/dst</output-path>
+    <root id="archive" name="t_panda.jpg2pdf.jar">
+      <element id="module-output" name="t_panda.jpg2pdf" />
+      <element id="module-source" name="t_panda.jpg2pdf" />
+      <element id="dir-copy" path="$PROJECT_DIR$/res" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>t_panda.jpg2pdf</groupId>
+  <version>0.0.0.0</version>
+
+  <!-- ★★★ TODO change it to the artifactId ★★★ -->
+  <artifactId>t_panda.jpg2pdf.jar</artifactId>
+  <name>t_panda.jpg2pdf.jar</name>
+  <!-- ★★★ FIXME change it to the project's website ★★★ -->
+  <url>http://www.example.com</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <repositories>
+<!--
+    <repository>
+      <id>hogehoge</id>
+      <url>http://www.example.com</url>
+    </repository>
+-->
+  </repositories>
+
+  <dependencyManagement>
+    <dependencies>
+    </dependencies>
+  </dependencyManagement>
+
+  <dependencies>
+<!--
+    <dependency>
+      <groupId>fugafuga</groupId>
+      <artifactId>artifact-fuga.jar</artifactId>
+      <version>1.0</version>
+    </dependency>
+-->
+  </dependencies>
+
+  <build>
+    <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
+      <plugins>
+      </plugins>
+    </pluginManagement>
+  </build>
+</project>

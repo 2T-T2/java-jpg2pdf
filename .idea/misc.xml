@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/docs" />
+    <option name="OPTION_SCOPE" value="private" />
+    <option name="OTHER_OPTIONS" value="--allow-script-in-comments -encoding utf8 -header &quot;&lt;link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/vs.min.css'&gt;&lt;script src='https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js'&gt;&lt;/script&gt;&lt;script&gt;hljs.initHighlightingOnLoad();&lt;/script&gt;&quot;" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out/t_panda.jpg2pdf" />
+  </component>
+</project>
